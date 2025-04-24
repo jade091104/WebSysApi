@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "jade balbin",
+    "email": "jadebalbin011@gmail.com",
+    "phone": "0930-123-9283",
+    "address": {
+        "street": "131 B natividad st.",
+        "city": "caloocan city",
+        "state": "Philippines",
+        "zip": "1400"
+    },
+    "company": {
+        "name": "Tech Solutions",
+        "position": "Software Engineer",
+        "department": "Development"
+    }
+}
